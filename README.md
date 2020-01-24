@@ -5,6 +5,9 @@ A Unity implementation of a procedural level generator based on one or more agen
 For the Institute of Digital Games at the University of Malta, I created a tutorial in which students need to fill in the most important parts of the code. The tutorial can be found here: [link](https://github.com/DKaravolos/AgentBasedLevelGenerator/blob/master/AgentBasedLevelGenerator_Tutorial.zip). 
 The solution can be found here: [link](https://github.com/DKaravolos/AgentBasedLevelGenerator/blob/master/AgentBasedLevelGenerator_Tutorial_Solution.zip) and is probably better documented than the main code in this repo. Sorry for that. 
 
+# Hierarchical Generator
+A more elaborate generator, used for creating the data set of my PhD thesis can be found here: [link](https://drive.google.com/open?id=1B4m5XwY5fk6RjYIgG7YFPonKj0v3nc9c). This generator assures that there are two paths between the two bases and has two walkable floor levels. For more information, check out [my personal website] (https://danielkaravolos.nl/publications/dissertation/)
+
 # ASCI Map
 The solution to the tutorial contains code for exporting the map to a csv-file of ASCI characters (basically 0,1 and 2 for the different floor levels).
 
